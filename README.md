@@ -25,3 +25,5 @@ Projeto de Software.
 ODS 11 - Cidades e Comunidades Sustentáveis
 
 Pull Request para validação da disciplina Projeto de Software
+
+Pull Request para validação da disciplina Projeto de Software
